@@ -50,7 +50,13 @@ var mimes = [
   'vnd.sun.xml.draw.template',
   'vnd.stardivision.draw',
   'vnd.sun.xml.math',
-  'vnd.stardivision.math'
+  'vnd.stardivision.math',
+  'wps-office.docx',
+  'wps-office.xlsx',
+  'wps-office.doc',
+  'wps-office.xls',
+  'wps-office.ppt',
+  'wps-office.pptx'
 ];
 
 module.exports = function (mime) {

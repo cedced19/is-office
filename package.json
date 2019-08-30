@@ -1,6 +1,6 @@
 {
   "name": "is-office",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A module to check if content-type is an office document.",
   "main": "index.js",
   "scripts": {
